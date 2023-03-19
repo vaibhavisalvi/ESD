@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: ESD
+  annotations:
+    github.com/project-slug: vaibhavisalvi/ESD
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-b
